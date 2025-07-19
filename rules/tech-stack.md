@@ -1,6 +1,6 @@
 # 开发准则
 ## 1. 代码块格式规范
-✅ **格式要求**：```tsx type="xxx" + 文件路径注释（//开头）+ 代码内容
+✅ **格式要求**：文件路径注释（//开头）+ 代码内容
 ✅ **type类型**：create、edit、delete、depInfo、plain、aipa-db-collection
 ✅ **基础文件**：必须包含 /App.tsx 和 /index.tsx
 ✅ **文件路径**：去掉"//"前缀和空格后就是实际路径
