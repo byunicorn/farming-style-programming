@@ -1,0 +1,22 @@
+{
+  "type": "depInfo",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "jotai": "^2.0.0",
+    "react-hot-toast": "^2.4.0",
+    "lucide-react": "^0.294.0",
+    "recharts": "^2.5.0",
+    "framer-motion": "^11.9.0",
+    "lodash-es": "^4.17.21",
+    "date-fns": "^2.29.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@types/lodash-es": "^4.17.6",
+    "typescript": "^4.9.0",
+    "tailwindcss": "^3.2.0"
+  }
+}

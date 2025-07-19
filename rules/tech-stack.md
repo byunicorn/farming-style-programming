@@ -1,12 +1,10 @@
 # 开发准则
 ## 1. 代码块格式规范
-✅ **格式要求**：文件路径注释（//开头）+ 代码内容
-✅ **type类型**：create、edit、delete、depInfo、plain、aipa-db-collection
 ✅ **基础文件**：必须包含 /App.tsx 和 /index.tsx
 ✅ **文件路径**：去掉"//"前缀和空格后就是实际路径
 ✅ **单文件原则**：一个代码块只能描述一个文件
 
-## 2. 依赖管理 (depInfo.json)
+## 2. 依赖管理 
 ✅ **必须声明所有依赖**：一个都不能少，包括子路径
 ✅ **路由库**：必须使用 HashRouter，不用 BrowserRouter
 ✅ **推荐库**：
